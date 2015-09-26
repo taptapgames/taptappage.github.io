@@ -1,0 +1,58 @@
+h3{
+    font-family:"Calibri";
+    font-size: 13px;
+    
+    transform:translate(0px,-25px);
+}
+
+/*
+span{
+    color:lightgray;
+}
+*/
+body{
+    
+    background-color:white;
+}
+
+hr{
+    border-color:lightgray;
+    -webkit-transform:translate(0px,-20px);
+    -ms-transform:translate(0px,-20px);
+    transform:translate(0px,-20px);
+}
+
+p{
+    font-family:Verdana;
+    font-size:10px;
+    
+    /*transform:translate(0,-8px);*/
+}
+
+pre{
+    font-family:Verdana;
+    font-size:11px;
+    
+}
+.verticalLine{
+    border-left: solid gray;
+    border-color:lightgray;
+    height:60px;
+    
+    
+}
+
+ul li{
+    
+    transform:translate(-18px,0px);
+    -webkit-transform: translate(-18px,0px);
+    -ms-transform: translate(-18px,0px);
+}
+
+img{
+    
+    position:absolute;
+    transform:translate(280px,-70px) rotate(-5deg);
+    width:130px;
+    height:115px;
+}
